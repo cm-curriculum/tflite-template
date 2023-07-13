@@ -1,0 +1,30 @@
+0 Steak
+1 Chocolate
+2 Fish
+3 Lettuce
+4 Banana
+5 Taco
+6 Cookie
+7 Cake
+8 Corn
+9 Tomato
+10 Potato
+11 Celery
+12 Apple
+13 Sandwich
+14 Egg
+15 Pasta
+16 Rice
+17 Ice Cream
+18 Pizza
+19 Cheese
+20 Almond
+21 Bacon
+22 Bread
+23 Broccoli
+24 French Fries
+25 Popcorn
+26 Salmon
+27 Shrimp
+28 Watermelon
+29 Yogurt
