@@ -1,4 +1,4 @@
-class FoodInfo{
+class DetectedClass{
   String name;
   double calories;
   double cholesterol;
@@ -9,7 +9,7 @@ class FoodInfo{
   double protein;
   double vc;
 
-  FoodInfo(
+  DetectedClass(
       this.name,
       this.calories,
       this.cholesterol,
@@ -19,5 +19,5 @@ class FoodInfo{
       this.potassium,
       this.protein,
       this.vc,
-      );
+  );
 }
